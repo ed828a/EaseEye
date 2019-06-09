@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EaseEye</string>
+    <string name="blue_light_filter_level">Dimming Level</string>
+    <string name="notification_content">Ease Eye</string>
+</resources>
